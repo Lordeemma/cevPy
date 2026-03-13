@@ -6,8 +6,8 @@ Os scripts foram separados em desafios avulsos separados por aula e exercícios 
 
 ---
 
-## Links
+### Links
 
-[Curso em Vídeo](https://www.cursoemvideo.com/) - site oficial do Curso em Vídeo\
-[Python](https://www.python.org/) - site oficial do Python\
+[Curso em Vídeo](https://www.cursoemvideo.com/)\ - site oficial do Curso em Vídeo
+[Python](https://www.python.org/) - site oficial do Python
 [PyPi](https://pypi.org/) - repositório de módulos do Python
