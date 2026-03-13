@@ -1,2 +1,0 @@
-# Último exercício sobre módulos
-
