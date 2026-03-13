@@ -1,9 +1,9 @@
 # Outro exercício sobre módulos
 
-from math import cos, sin, tan
+from math import cos, sin, tan, radians
 
 degree = float(input('Insira o valor de um ângulo: '))
 
-print('Seno de {}°: {}'.format(degree, sin(degree)))
-print('Cosseno de {}°: {}'.format(degree, cos(degree)))
-print('Tangente de {}°: {}'.format(degree, tan(degree)))
+print('Seno de {}°: {:.2f}'.format(degree, sin(radians(degree))))
+print('Cosseno de {}°: {:.2f}'.format(degree, cos(radians(degree))))
+print('Tangente de {}°: {:.2f}'.format(degree, tan(radians(degree))))
