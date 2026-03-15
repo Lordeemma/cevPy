@@ -4,6 +4,18 @@ Repositório criado para arquivar exercícios de prática realizados por mim pro
 
 Os scripts foram separados em desafios avulsos separados por aula e exercícios propostos ao final da aula. Os desafios recebem nome temático, enquanto os exercícios apenas são numerados em ordem.
 
+### Tabela de exercícios disponíveis
+
+Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
+:---: | :---: | :---: | :---:
+Funções básicas | Condições aninhadas | ——— | ———
+Operadores aritméticos | ——— | ——— | ———
+Módulos | ——— | ——— | ———
+Manipulação de texto | ——— | ——— | ———
+Operadores condicionais | ——— | ——— | ———
+
+——— = *N/A*
+
 ---
 
 ### Links
