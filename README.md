@@ -9,7 +9,7 @@ Os scripts foram separados em desafios avulsos separados por aula e exercícios 
 Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
 :---: | :---: | :---: | :---:
 Funções básicas | Condições aninhadas | ——— | ———
-Operadores aritméticos | ——— | ——— | ———
+Operadores aritméticos | Estrutura de repetição *for* | ——— | ———
 Módulos | ——— | ——— | ———
 Manipulação de texto | ——— | ——— | ———
 Operadores condicionais | ——— | ——— | ———
