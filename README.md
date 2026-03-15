@@ -2,7 +2,19 @@
 
 Repositório criado para arquivar exercícios de prática realizados por mim propostos pelas aulas do Curso em Vídeo. É possível que alguns scripts não funcionem em razão de módulos de terceiros faltantes, então, sempre confira o campo superior do script para saber qual módulo será necessário baixar.
 
-Os scripts foram separados em desafios avulsos separados por aula e exercícios propostos ao final da aula. Os desafios recebem nome temático, enquanto os exercícios apenas são numerados em ordem.
+Os scripts foram separados em desafios avulsos separados por aula e exercícios propostos ao final da aula. Os desafios recebem nome temático e são armazenados na pasta de sua aula correspondente; enquanto os exercícios são numerados em ordem, organizados em pastas por tema e contidos em seu "mundo" respectivo.
+
+### Tabela de exercícios disponíveis
+
+Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
+:---: | :---: | :---: | :---:
+Funções básicas | Condições aninhadas | ——— | ———
+Operadores aritméticos | ——— | ——— | ———
+Módulos | ——— | ——— | ———
+Manipulação de texto | ——— | ——— | ———
+Operadores condicionais | ——— | ——— | ———
+
+——— = *N/A*
 
 ---
 
