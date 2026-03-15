@@ -10,7 +10,7 @@ Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
 :---: | :---: | :---: | :---:
 Funções básicas | Condições aninhadas | ——— | ———
 Operadores aritméticos | Estrutura de repetição *for* | ——— | ———
-Módulos | ——— | ——— | ———
+Módulos | Estrutura de repetição *while* | ——— | ———
 Manipulação de texto | ——— | ——— | ———
 Operadores condicionais | ——— | ——— | ———
 
