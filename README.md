@@ -11,7 +11,7 @@ Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
 Funções básicas | Condições aninhadas | ——— | ———
 Operadores aritméticos | Estrutura de repetição *for* | ——— | ———
 Módulos | Estrutura de repetição *while* | ——— | ———
-Manipulação de texto | ——— | ——— | ———
+Manipulação de texto | Interrupção de repetições *while* | ——— | ———
 Operadores condicionais | ——— | ——— | ———
 
 ——— = *N/A*

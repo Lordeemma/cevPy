@@ -1,5 +1,5 @@
 # Exercício sobre parâmetros para o print
 
-num = int(input('Digite um número: '))
+number = int(input('Digite um número: '))
 
-print('Número digitado: {} \nSucessor: {} \nAntecessor: {}'.format(num, num+1, num-1))
+print('Número digitado: {} \nSucessor: {} \nAntecessor: {}'.format(number, number + 1, number - 1))

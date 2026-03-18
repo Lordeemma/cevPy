@@ -1,8 +1,8 @@
 # Exercício sobre operadores aritméticos
 
-num = int(input('Insira um número: '))
+number = int(input('Insira um número: '))
 
-print('Número inserido: {}'.format(num))
-print('Dobro: {}'.format(num*2))
-print('Triplo: {}'.format(num*3))
-print('Raiz quadrada: {}'.format(num**(1/2)))
+print('Número inserido: {}'.format(number))
+print('Dobro: {}'.format(number * 2))
+print('Triplo: {}'.format(number * 3))
+print('Raiz quadrada: {}'.format(number **(1/2)))
