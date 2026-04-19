@@ -17,7 +17,6 @@ while True:
 print('-=' * 30)
 print(f'— O grupo tem {len(pessoas)} pessoas.')
 
-
 idade = 0
 for pessoa in pessoas:
     idade += pessoa['idade']
