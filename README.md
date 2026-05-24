@@ -8,13 +8,12 @@ Os scripts foram separados em desafios avulsos separados por aula e exercícios 
 
 Mundo 1 | Mundo 2 | Mundo 3 | Mundo 4
 :---: | :---: | :---: | :---:
-Funções básicas | Condições aninhadas | Tuplas | ———
-Operadores aritméticos | Estrutura de repetição *for* | Listas | ———
-Módulos | Estrutura de repetição *while* | Dicionários | ———
-Manipulação de texto | Interrupção de repetições *while* | Funções | ———
-Operadores condicionais | ——— | ——— | ———
-
-——— = *N/A*
+Funções básicas | Condições aninhadas | Tuplas | *N/A*
+Operadores aritméticos | Estrutura de repetição *for* | Listas | *N/A*
+Módulos | Estrutura de repetição *while* | Dicionários | *N/A*
+Manipulação de texto | Interrupção de repetições *while* | Funções | *N/A*
+Operadores condicionais | *N/A* | Modularização | *N/A*
+*N/A* | *N/A* | Tratamento de erros | *N/A*
 
 ---
 
