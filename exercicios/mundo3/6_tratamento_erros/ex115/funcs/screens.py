@@ -19,6 +19,10 @@ def menuPrincipal():
             return n
     except ValueError:
         print('\033[0;31mERRO: Digite uma opção válida!\033[m')
+    except KeyboardInterrupt:
+        n = 3
+        print('')
+        return n
 
 def novoCadastro():
     print("\033[2J\033[H", end="")
